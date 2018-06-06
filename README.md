@@ -4,7 +4,7 @@
 •As you flip the switches(SW0-9) the corresponding LEDs(LEDR0-9) lights up.
 
 # Lab2(demo.vhd)
-•Visualizing the numbers 1234 on the 4-Digit 7-Segment Display. /n
+•Visualizing the numbers 1234 on the 4-Digit 7-Segment Display. <br />
 •As you flip the switches(SW0-9) the corresponding LEDs(LEDR0-9) lights up. /n
 •The rightmost button (KEY0) is connected to LEDG7, so when you press it you will notice the leftmost led (LEDG7) lights up.
 •We also connected KEY3 and KEY2 to light up LEDG4 in the middle but only when they're pressed together 
